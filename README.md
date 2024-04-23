@@ -34,7 +34,7 @@ Please ensure you adhere to the dataset's usage guidelines and cite it appropria
 ```bibtex
 @article{lim2024inair,
   title={TBC},
-  author={Lim, A. F. C. and Khoh, W. H. and Pang, Y. H. and Yap, H. Y.},
+  author={Alvin Fang Chuen Lim, Wee How Khoh, Ying Han Pang, Hui Yen Yap},
   doi = {TBC},
   journal={International Journal of Technology},
   volume={},
