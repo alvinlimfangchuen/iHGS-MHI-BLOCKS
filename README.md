@@ -1,5 +1,5 @@
 # In-air Hand Gesture Signature - Motion History Image - Blocks (iHGS-MHI-BLOCKS)
-Implementation of Custom Image Processing Algorithm For 3D Features Generation. For paper titled [Revolutionizing Signature Recognition: A Contactless Approach with Convolutional-Recurrent Neural Network (C-RNN)](https://joiv.org/index.php/joiv/article/view/2359)
+Implementation of Custom Image Processing Algorithm For 3D Features Generation. For paper titled [Revolutionizing Signature Recognition: A Contactless Approach with Convolutional-Recurrent Neural Network (C-RNN)]([https://joiv.org/index.php/joiv/article/view/2359](https://doi.org/10.14716/ijtech.v15i4.6744))
 
 ### ⚠️ The algorithm's source code will be uploaded to this repository once the article is published.⚠️
 ## Abstract
