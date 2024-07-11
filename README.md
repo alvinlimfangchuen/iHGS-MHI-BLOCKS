@@ -36,7 +36,7 @@ Please ensure you adhere to the dataset's usage guidelines and cite it appropria
 @article{lim2024inair,
   title={Revolutionizing Signature Recognition: A Contactless Method with Convolutional Recurrent Neural Networks},
   author={Alvin Fang Chuen Lim, Wee How Khoh, Ying Han Pang, Hui Yen Yap},
-  doi = {[TBC](https://doi.org/10.14716/ijtech.v15i4.6744)},
+  doi = {(https://doi.org/10.14716/ijtech.v15i4.6744)},
   journal={International Journal of Technology},
   volume={15(4)},
   pages={pp. 1102-1117},
