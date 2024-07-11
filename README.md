@@ -34,13 +34,12 @@ Please ensure you adhere to the dataset's usage guidelines and cite it appropria
 
 ```bibtex
 @article{lim2024inair,
-  title={TBC},
+  title={Revolutionizing Signature Recognition: A Contactless Method with Convolutional Recurrent Neural Networks},
   author={Alvin Fang Chuen Lim, Wee How Khoh, Ying Han Pang, Hui Yen Yap},
-  doi = {TBC},
+  doi = {[TBC](https://doi.org/10.14716/ijtech.v15i4.6744)},
   journal={International Journal of Technology},
-  volume={},
-  number={},
-  pages={},
+  volume={15(4)},
+  pages={pp. 1102-1117},
   year={2024}
 }
 ```
