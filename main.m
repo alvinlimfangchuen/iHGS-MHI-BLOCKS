@@ -7,8 +7,20 @@ folder = path;
 fileList = dir(fullfile(folder, '*.mat'));
 fileName = {fileList.name};
 
-%This Custom Algorithm Consit of 4 File
-% main.mat is the main program file responsible for loading and pass dataset
-% generateBlockForLargeSample.mat
-% generateBlockForSmallSample.mat
-% generateMHI
+for i=1:size(fileList)
+    
+    %Load frame sequences
+    getFilename = string(fileName(i));
+    load(getFilename);
+    frameSequence = sign_depth_palmfilter;
+    totalFrame = size(frameSequence, 3);
+    fprintf("Processing %s FramesCount:%d \n", getFilename, totalFrame);
+    
+    %Generate block
+    if totalFrame < 100
+        generateBlockForSmallSample(frameSequence, i);
+    else
+        generateBlockForLargeSample(frameSequence, i);
+    end
+    
+end
